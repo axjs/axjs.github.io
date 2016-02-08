@@ -1,3 +1,6 @@
+
+#[Создаем блог используя Jekyll и GitHub Pages](http://frontender.info/build-blog-jekyll-github-pages/)
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
